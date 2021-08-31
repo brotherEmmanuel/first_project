@@ -1,0 +1,88 @@
+body{font: normal 1em;
+     width: 90%;
+     margin: 1em auto;
+     padding:10px;
+     background-color:#dcdcf5;
+     font-size:15px;
+     font-family:'Times New Roman';
+     
+    }
+    
+.heading_title{
+        width: 90%;
+        margin:auto;
+        background-color: rgba(132, 132, 197, 0.623);
+        border-radius: 1.5em;
+        border-style:solid;
+        border-width: .5em;
+        padding:1em;
+    }
+     
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:1.5em;
+    color: rgb(0, 0, 17);
+    align-content: center;
+
+}
+
+h2{
+   font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:4em;
+    color: rgb(0, 12, 179); 
+}
+
+p1 {
+    font: italic 1.5em Georgia; 
+    color: rgb(23, 109, 109); 
+    padding:0.5in;
+    margin: 0.1in;
+    }
+
+.ROR_paragraph{
+    margin:.2in;
+    padding:2em;
+    text-align:left;
+    
+}
+
+.Partnership_Arms{
+    align-content: center;
+}
+
+.paragraph{
+    width: 70%;
+    height:auto;
+    background-color:rgba(255, 0, 0, 0.007);
+    border-radius:.5em;
+    padding:1em;
+    padding-bottom: 2em;
+    align-content: center;
+    margin:auto;
+    
+
+}
+
+p2 {
+    font: italic 1.5em Georgia;
+    color:blue;
+    margin-bottom:auto;
+    }
+
+p3 {
+    font: normal 1.5em Georgia;
+    color:rgb(1, 1, 65);
+    margin-bottom:auto;
+    margin: top 11px;    
+    }
+
+.leadership{
+    margin: center;
+}
+img { margin: 0 20px 0 0; }
+ 
+h1 img { margin-bottom: -20px; }
+ 
+small { color: #666666; }
+
+tbody.tr{padding:1px;}
